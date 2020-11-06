@@ -1,0 +1,13 @@
+---
+title: "Download dos dados plenar.io."
+output: bookdown::html_notebook2
+editor_options: 
+  chunk_output_type: console
+---
+
+# used packages
+
+```{r}
+library(tidyverse)
+```
+
